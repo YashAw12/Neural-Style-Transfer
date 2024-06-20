@@ -11,7 +11,7 @@ Neural style transfer (NST) is a sophisticated technique in the field of compute
 ![image](https://github.com/YashAw12/Neural-Style-Transfer/assets/117550570/df6652d4-b7e1-4944-b75d-8a21ff3625d4)
 
 # Video Description:
-
+https://drive.google.com/file/d/161mdivBzT_89SPcaGa9B7mtW__IXZ06K/view?usp=share_link
 
 # Requisites:
 All the dependencies are given in the colab notebook, just go to the particular notebook (link is also given) and run the codes. The content and the pattern image are also given.
